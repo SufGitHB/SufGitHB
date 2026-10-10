@@ -6,10 +6,11 @@ I have 6+ years of experience in systems and network administration, Microsoft i
 
 What I work with:
 
-- **Microsoft:** Windows Server, Active Directory, Exchange Online, Microsoft 365, Entra ID, Intune, SCCM, Defender XDR, PowerShell
+- **Microsoft:** Windows Server, Active Directory, Exchange Online, Microsoft 365, Entra ID, Defender XDR, PowerShell
+- **Endpoint management & MDM:** Microsoft Intune (MDM), SCCM, WSUS, WDS, GPO, Workspace ONE, IGEL OS
 - **Linux & Cloud:** RHEL, Ubuntu, Azure, AWS, Proxmox, VMware
 - **DevOps & IaC:** Docker, Kubernetes, Ansible, GitLab CI/CD, Git
-- **Networking & Security:** Cisco, Palo Alto, Nginx, HAProxy, Traefik, TLS/PKI, VPN, Keycloak
+- **Networking & Security:** Cisco, Palo Alto, Nginx, HAProxy, Traefik, TLS/PKI, VPN, Keycloak, Trend Micro, Kaspersky
 - **Monitoring & ITSM:** Zabbix, Grafana, ITIL, Jira, ServiceNow
 
 Certified Cisco CCNA, IGEL Certified Professional and Windows Server.
